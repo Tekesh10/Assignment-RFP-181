@@ -1,4 +1,4 @@
-package Day5.BasicCorePrograms;
+package com.bridgelabz.basic_core_programs;
 
 public class Powerof2 {
     public static void main(String[] args) {
